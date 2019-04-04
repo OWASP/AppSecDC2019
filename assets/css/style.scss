@@ -4,6 +4,7 @@
 @import "vars";
 @import "header";
 @import "section";
+@import "teamlist";
 @import "footer";
 
 
@@ -37,7 +38,12 @@ h1,h2 {
 h1 {
 	font-size: 2.25em;
 	margin-bottom: 0.25em;
+	&.pagetitle {
+		margin: 1.5em 0em 0.5em 0em;
+		font-size: 2.5em;
+	}
 }
 h2 {
-	font-size: 1.25em;
+	font-size: 2em;
+	margin-bottom: 0.5em;
 }

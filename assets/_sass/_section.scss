@@ -1,16 +1,43 @@
+
 section {
 	padding: 2em 4em;
+	line-height: 1.5em;
+	min-height: 15em;
 	p {
 		padding-bottom: 1em;
 	}
 	&.punch{
 		font-size: 110%;
 	}
+	ul {
+		padding: 0em 1em 1em 1.5em;
+		li {
+			list-style-type: disc;
+		}
+	}
+	ol {
+		padding: 0em 1em 1em 1em;
+		counter-reset: ze-count;
+		li {
+			counter-increment: ze-count;
+		}
+		li::before {
+			content: counter(ze-count) ". ";
+			position: relative;
+			left: -0.5em;
+		}
+	}
+	&.inverse {
+		color: #fff;
+		background: $darkblue;
+	}
 }
+
+
 
 
 @media (max-width: 500px) {
 	section {
-		padding: 1.5em 2em;
+		padding: 1.5em 1em;
 	}
 }

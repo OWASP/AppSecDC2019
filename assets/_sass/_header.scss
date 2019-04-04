@@ -1,3 +1,7 @@
+.front header {
+	padding: 2em 4em 7em 4em;
+}
+
 header {
 	background-position: center center;
 	background-repeat: repeat-y, no-repeat;
@@ -5,7 +9,7 @@ header {
 	background-blend-mode: multiply, normal;
 	width: 100%;
 	color: #fff;
-	padding: 5em 4em 7em 4em;
+	padding: 2em 4em 1em 4em;
 	font-size: 100%;
  	justify-content: space-around;
 
@@ -27,15 +31,17 @@ header {
 		margin-bottom: 0.5em;
 	}
 	h4 {
-		fon-size: 1.10em;
+		font-size: 1.10em;
+		a {
+			color: #fff;
+			text-decoration: underline;
+		}
 	}
-
 	a {
 		color: #fff;
-		text-decoration: underline;
 	}
 
-	div.logo {
+	a.logo {
 		font-size: 120%;
 		background-image: url("../images/logo_negative.svg");
 		background-repeat: no-repeat;
@@ -48,17 +54,154 @@ header {
 		flex-shrink: 0;
 		flex-grow: 0;
 		width: 23.7em;
-		
+		text-decoration: none;	
 	}
+
+	nav {
+		display: flex;
+		justify-content: right;
+		padding: 0.75em;
+		margin-right: 2em;
+		margin-top: 0em;
+		height: 2.5em;
+		margin-bottom: 0em;
+		position: relative;
+		z-index: 5;
+		font-size: 87.5%;
+
+		.burger {
+			display: none;
+			margin-left: 0.1em;
+		}
+		a {
+			color: #fff;
+			text-transform: uppercase;
+			padding: 0em 1em;
+			border-radius: 0.8em;
+			height: 1.6em;
+			&:hover{
+				background: #fff;
+				color: $darkblue;
+				text-decoration: none;
+			}
+			&:active {
+				background: $lightblue;
+
+			}
+		}
+		> ul {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: flex-end;
+			list-style: none;
+			margin: 0;
+			padding: 0;
+			width: 100%;
+
+			> li {
+				min-width: 8em;
+				position: relative;
+				flex: 0 1 auto;
+				margin: 0;
+				padding: 0em 1em 2em 0em;
+				transition: all linear 0.1s;
+
+				&.dropdown > a:after {
+					content: "\25be";
+					margin-left: 0.25em;
+				}
+
+				> ul {
+					display: none;
+					position: absolute;
+					z-index: 2;
+					list-style: none;
+					xwidth: 12em;
+					white-space: nowrap;
+					margin: 0;
+					padding: 0;
+					background: rgba(4,11,13,0.5);
+					box-shadow: 0px 5px 2px rgba(0,0,0,0.5);
+					left: 0em;
+					top: 1.6em;
+					padding: 0.4em;
+					line-height: 1.5em;
+
+					a { text-transform: none; }
+				}
+				&:last-child {
+					ul {
+						left: auto;
+					}
+				}
+
+			}
+
+			> li:hover > ul {
+				display: block;
+			}
+		}
+	}
+
 }
 @media (max-width: 500px) {
+	.front header {
+		padding: 1em 1em 7em 1em;
+	}
+
 	header {
+		padding: 1em 1em 1em 1em;
 		font-size: 80%;
-		div.logo {
+		a.logo {
 			font-size: 90%;
 		}
-		h3 {
+		h3, h4 {
 			text-align: center;
+		}
+		nav {
+			font-size: 100%;
+			padding: 0;
+			height: auto;
+			margin: 0;
+			padding: 0.5em 0em;
+
+			.burger {
+				display: block;
+				padding: 0.3em 0.5em;
+				margin-left: 0em;
+			}
+
+			> ul {
+				display: none;
+			}
+
+			&:hover > ul, .burger:hover + ul {
+				display: block;	
+			}
+
+			> ul {
+				> li {
+					width: 100%;
+					flex: none;
+					padding: 0.3em 0.5em;
+
+					> ul {
+						position: relative;
+						z-index: 0;
+						width: 100%;
+						margin: 0 0 0 1em;
+						padding: 0.3em 0.5em;
+						background: transparent;
+						box-shadow: none;
+						left: auto;
+						top: auto;
+					}
+				}
+
+				> li:hover > ul {
+					display: block;
+				}
+			}
 		}
 	}
 }

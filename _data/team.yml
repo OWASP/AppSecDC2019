@@ -1,0 +1,17 @@
+conferenceteam:
+staff: 
+  - name: Mike McCamon 
+    role: Executive Director
+    image: mikem.jpg
+  - name: Harold Blankenship
+    role: Director, Projects and Technology Support
+    image: HB_Profile.jpg
+  - name: Kelly Santalucia
+    role: Sr. Manager of Sponsorship & Membership
+    image: staff-kelly_santalucia.png
+  - name: Lisa Jones
+    role: Manager of Projects and Sponsorship
+    image: Lisa-Jones.jpg
+  - name: Dawn Aitken
+    role: Community Manager
+    image: Dawn_picture_2.jpg

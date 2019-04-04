@@ -1,0 +1,57 @@
+{% assign baseUrl = "/" %}<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  <meta property="og:title" content="OWASP Global AppSec DC 2019 {{page.title }}">
+  <meta property="og:url" content="https://dc.appsecglobal.org{{page.url}}" >
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="Global AppSec - DC is coming September 8-13th, 2019 to the Wardman Park Hotel in nation’s capital. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.">
+  <meta property="og:image" content="https://dc.appsecglobal.org/assets/images/logo.svg">
+  <meta property="og:image:type" content="image/svg">
+  <meta property="og:image:width" content="500">
+  <meta property="og:image:height" content="500">
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0079a7">
+<meta name="msapplication-TileColor" content="#0079a7">
+<meta name="theme-color" content="#ffffff">
+
+
+	<link type="text/css" rel="stylesheet" href="/assets/css/style.css">
+  <title>{{ page.title }}</title>
+  <link href="https://fonts.googleapis.com/css?family=Brawler|Titillium+Web" rel="stylesheet">
+<body class="{{page.bodyclass}}">
+<header style="background-image: {{site.multiply}}, url(/assets/images/dc.jpg);">
+	<nav>
+    <a href="#" class="burger dropdown-toggle" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">☰</a>
+    <ul class="nav navbar-nav">
+    {% for menu in site.data.menus %}
+      {% if menu.items %}
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{menu.title}}</a>
+            <ul class="dropdown-menu">
+            {% for item in menu.items %}
+                <li><a href="{{baseUrl}}{{item.url}}">{{item.title}}</a></li>
+            {% endfor %}
+            </ul>
+        </li>
+      {% else %}
+        <li>
+          <a href="{{baseUrl}}{{menu.url}}">{{menu.title}}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </nav>
+	<a class="logo" href="/">
+		<h1>Global AppSec - DC</h1>
+		<h2>by OWASP Foundation</h1>
+	</a>
