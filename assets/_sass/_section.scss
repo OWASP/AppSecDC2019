@@ -1,0 +1,16 @@
+section {
+	padding: 2em 4em;
+	p {
+		padding-bottom: 1em;
+	}
+	&.punch{
+		font-size: 110%;
+	}
+}
+
+
+@media (max-width: 500px) {
+	section {
+		padding: 1.5em 2em;
+	}
+}
