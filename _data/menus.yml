@@ -1,9 +1,9 @@
 - title: Submit
   items:
-  - title: Call for papers
-    url  : program/call-for-papers
+  - title: Call for Presentors
+    url  : program
   - title: Call for Trainings
-    url  : program/call-for-trainings
+    url  : program
 - title: Sponsor
   url  : sponsors/
 - title: About
