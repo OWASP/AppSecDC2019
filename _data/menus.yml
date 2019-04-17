@@ -1,16 +1,16 @@
 - title: Submit
   items:
   - title: Call for Presentors
-    url  : program
+    url  : program/
   - title: Call for Trainings
-    url  : program
+    url  : program/
 - title: Sponsor
   url  : sponsors/
 - title: About
   items:
-  - title: Code of Conduct
-    url  : about/code-of-conduct
   - title: Global AppSec
     url  : about/
   - title: Team
     url  : about/team
+  - title: Code of Conduct
+    url  : about/code-of-conduct
