@@ -15,18 +15,17 @@ Call for Papers is now open until May 31, 2019. **[Submit a Paper Here](https://
 
 Web applications leaders, software engineers, and researchers from all over the world gather at Global AppSecs to drive visibility and evolution in the safety and security of the world’s software. The conference will be held September 12 and 13 in Washington, DC. Hands on training will be offered September 9, 10, and 11.  
 
-Theme:  TBD
+Theme:  "Security through Enablement"
 
-Examples of talks include: 
+Examples of previous talks include: 
 * Our Journey for Rolling out MFA
 * Building a TLS Service
 * Auth Plugins
 * Open Source Security Building Blocks
 * Scaling Security /Incident Response: Account Takeover
-* Scaling Security /Incident Response:Fraud
+* Scaling Security /Incident Response: Fraud
 * Data Driven Security
 * Enabling the User to be Secure by Default
 * Enabling Developers to remain Secure Throughout the SDLC
 * Bringing Teams up to Speed in DevSecOPs Environments
 * How Does Your Org Enable the Next Generation of Security Research
-* Of course we love surprises so if your talk falls outside of the examples given, feel free to submit!
