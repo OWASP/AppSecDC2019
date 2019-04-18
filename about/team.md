@@ -1,11 +1,12 @@
 ---
-title: The conference team
+title: The Conference Team
 layout: multisection
 ---
 
 
 <section class="team-list">
 	<h2>Organizing Committee</h2>
+	Coming Soon...
 	<ul >
 	{% for member in site.data.team.conferenceteam %}
 	<li>
