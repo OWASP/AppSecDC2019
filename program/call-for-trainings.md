@@ -12,7 +12,7 @@ Call for Trainers is now open until May 31, 2019. **[Submit a Training Here](htt
 
 ## Training at Global AppSec
 
-We are especially interested in “the next”, cutting edge research in the context of web applications, secure development, security management and privacy. Our goal is to give both academic researchers and industry practitioners the possibility to share their latest findings with the rest of the community, including coverage via our media channels. 
+We are especially interested in “the next”, cutting edge research in the context of web applications, secure development, security management, and privacy. Our goal is to give both academic researchers and industry practitioners the possibility to share their latest findings with the rest of the community, including coverage via our media channels. 
 Topics of interest include, but are not limited to the following:
 
 * Novel web vulnerabilities and countermeasures
