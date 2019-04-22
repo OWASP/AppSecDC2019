@@ -31,6 +31,28 @@ section {
 		color: #fff;
 		background: $darkblue;
 	}
+
+	table {
+		width: 100%;
+		margin-bottom: 1em;
+		th, td {
+			padding: 0.5em;		
+		}
+		thead {
+			tr {
+				background: $darkblue;
+				color: #fff;
+			}
+			th {
+				text-align: left;
+			}
+		}
+		tbody {
+			tr:nth-child(2n) {
+				background: #eee;
+			}
+		}
+	}
 }
 
 
