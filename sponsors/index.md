@@ -15,7 +15,7 @@ If you are interested in becoming a Corporate or Single Event Sponsor, please co
 ## Single Event Sponsorships
 
 | Level & Benefits | Emerald | Sapphire | Ruby |
-| ----- | ----- | ----- | ----- | 
+| ----- | :-----: | :-----: | :-----: | 
 | AppSec Events | Single event only | Single event only | Single event only |
 | Expo Space | 30'x30' | 30'x10' | 8'x6'|
 | Conference Passes | Six  | Four  | Two  | 
@@ -27,7 +27,7 @@ If you are interested in becoming a Corporate or Single Event Sponsor, please co
 ## Corporate Sponsorship Packages
 
 | Level & Benefits | Diamond | Platinum | Gold | Silver |
-| ----- | ----- | ----- | ----- | ----- |
+| ----- | :-----: | :-----: | :-----: | :-----: |
 | AppSec Events | All Global and Three Regional | All AppSec and Two Regional | Two AppSec and One Regional | One AppSec and One Regional |
 | Expo Space | 8'x6'| 8'x6'| 8'x6'| 8'x6'|
 | Conference Passes | Three  | Three  | Three  | Three  | 
