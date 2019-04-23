@@ -17,7 +17,7 @@ If you are interested in becoming a Corporate or Single Event Sponsor, please co
 | Level & Benefits | Emerald | Sapphire | Ruby |
 | ----- | :-----: | :-----: | :-----: | 
 | AppSec Events | Single event only | Single event only | Single event only |
-| Expo Space | 30'x30' | 30'x10' | 8'x6'|
+| Expo Space | 30'x10' | 10'x10' | 8'x6'|
 | Conference Passes | Six  | Four  | Two  | 
 | Logo on Event website | Yes | Yes | Yes |
 | Lead Scanners | Two | Yes | No |
