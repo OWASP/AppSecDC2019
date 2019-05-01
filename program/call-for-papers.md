@@ -6,7 +6,7 @@ Call for Papers is now open until May 31, 2019. **[Submit a Paper Here](https://
 
 ## Call for Papers Timeline
 * CfP Opens April 17, 2019
-* Review committee Announced April 31, 2019
+* Review committee Announced May 1, 2019
 * CfP Closes May 31, 2019
 * Notification of submitters June 21, 2019
 * Program announced  June 28, 2019
