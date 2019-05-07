@@ -4,7 +4,7 @@ title: Sponsoring
 
 ## Sponsorship Opportunities
 
-Global AppSec Events provide unique opportunities for members, the community, and parters to connect and discover new InfoSec products and solutions. The OWASP Foundation offers several options to potential sponsors:
+Global AppSec Events provide unique opportunities for members, the community, and partners to connect and discover new InfoSec products and solutions. The OWASP Foundation offers several options to potential sponsors:
 
 * Single event sponsorships
 * Packages for multiple events, training, and other benefits.
