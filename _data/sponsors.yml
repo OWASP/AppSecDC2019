@@ -2,7 +2,10 @@
   sponsors:
     - logo: Cequence.png
       name: Cequence
-      url :  https://www.cequence.ai/
+      url : https://www.cequence.ai/
     - logo: avatao.png
       name: Avatao
-      url :  https://avatao.com/
+      url : https://avatao.com/
+    - logo: ripstech.svg
+      name: Ripstech
+      url : https://www.ripstech.com/
