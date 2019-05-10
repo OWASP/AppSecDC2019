@@ -33,7 +33,7 @@ If you are interested in becoming a Corporate or Single Event Sponsor, please co
 | Conference Passes | Three  | Three  | Three  | Three  | 
 | Logo on Event website | Yes | Yes | Yes | Yes |
 | Lead Scanner | Yes | Yes | Yes | Yes |
-| Cost | $150,000 | $100,000 | $50,000 | $25,000 |
+| Cost | $120,000 | $80,000 | $45,000 | $25,000 |
 | ***Additional Benefits*** | | | |
 | Discounted Passes | 50% Full Conference | 50% Full Conference | 20% Full Conference | 20% Full Conference |
 | Training Passes | 10 Seats |10 Seats |10 Seats |2 Seats |
@@ -41,7 +41,9 @@ If you are interested in becoming a Corporate or Single Event Sponsor, please co
 | Employee Memberships| 500 | 200 | 100 | 10 |
 | OWASP Project Attribution | Up to $20,000 | Up to $10,000 | Up to $5,000 | Up to $2,500 |
 | Recognition on website | Bio and Logo | Bio and Logo | Bio and Logo | Bio and Logo |
+| Complimentary Corporate Membership* | Yes | Yes | Yes | Yes |
 | Press Release | Yes | Yes | Yes | Yes |
 | Vote in Global Elections | Yes | Yes | Yes | Yes |
 
 Corporate Sponsorships have twelve months of benefits from the date payment is received.
+ * Benefit applicable to companies with annual revenue less than $100million and is at the Contributor Level
