@@ -1,4 +1,13 @@
 conferenceteam:
+  - name: Abdullah Munawar 
+    role: Conference Co-Chair
+    image: formal_Abdullah_Munawar.jpg
+  - name: Ben Pick
+    role: Conference Co-Chair
+    image: ben_pick.jpg
+  - name: Zoe Braiterman
+    role: Organizing Committee 
+    image: Zoe_Braiterman.jpg
 staff: 
   - name: Mike McCamon 
     role: Executive Director
