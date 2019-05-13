@@ -45,5 +45,5 @@ If you are interested in becoming a Corporate or Single Event Sponsor, please co
 | Press Release | Yes | Yes | Yes | Yes |
 | Vote in Global Elections | Yes | Yes | Yes | Yes |
 
-Corporate Sponsorships have twelve months of benefits from the date payment is received.
- * Benefit applicable to companies with annual revenue less than $100million and is at the Contributor Level
+Corporate Sponsorships have twelve months of benefits from the date payment is received.  
+ \* Benefit applicable to companies with annual revenue less than $100million and is at the Contributor Level
