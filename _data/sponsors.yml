@@ -9,6 +9,8 @@
     - logo: ripstech.svg
       name: Ripstech
       url : https://www.ripstech.com/
+- type: Sapphire
+  sponsors:
     - logo: microfocus.png
       name: Microfocus
       url : https://www.microfocus.com/en-us/trend/security-risk-governance
