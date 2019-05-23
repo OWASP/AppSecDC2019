@@ -14,3 +14,8 @@
     - logo: microfocus.png
       name: Microfocus
       url : https://www.microfocus.com/en-us/trend/security-risk-governance
+- type: Ruby
+  sponsors:
+    - logo: ping.jpg
+      name: Ping Identity
+      url : http://www.pingidentity.com/
