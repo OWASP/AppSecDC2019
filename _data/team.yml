@@ -5,9 +5,6 @@ conferenceteam:
   - name: Ben Pick
     role: Conference Co-Chair
     image: ben_pick.jpg
-  - name: Sean Poris
-    role: Organizing Committee
-    image: sean.poris.jpg
   - name: Zoe Braiterman
     role: Conference Organizing Committee, CFT Committee 
     image: Zoe_Braiterman.jpg
@@ -18,7 +15,7 @@ conferenceteam:
     role: CFP/CFT Admin
     image: patrick_cooley_headshot.jpg
   - name: Sean Poris
-    role: Keynote Chair
+    role: Organizing Committee, Keynote Chair
     image: sean.poris.jpg
 staff: 
   - name: Mike McCamon 

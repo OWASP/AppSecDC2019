@@ -6,8 +6,7 @@ layout: multisection
 
 <section class="team-list">
 	<h2>Organizing Committee</h2>
-	
-	<ul >
+	<ul>
 	{% for member in site.data.team.conferenceteam %}
 	<li>
 		<div style="background-image: url(../assets/images/team/{{member.image | default: 'owasp_logo.png'}})" alt="{{member.name}} {{member.role}}"></div>
