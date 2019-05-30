@@ -17,6 +17,9 @@ conferenceteam:
   - name: Patrick Cooley
     role: CFP/CFT Admin
     image: patrick_cooley_headshot.jpg
+  - name: Sean Poris
+    role: Keynote Chair
+    image: sean.poris.jpg
 staff: 
   - name: Mike McCamon 
     role: Executive Director
