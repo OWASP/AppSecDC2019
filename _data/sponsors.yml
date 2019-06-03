@@ -17,6 +17,12 @@
     - logo: microfocus.png
       name: Microfocus
       url : https://www.microfocus.com/en-us/trend/security-risk-governance
+    - logo: acunetix.png
+      name: Acunetix
+      url : https://www.acunetix.com/?home=vt1
+    - logo: netsparker.png
+      name: NetSparker
+      url : https://www.netsparker.com/
 - type: Ruby
   sponsors:
     - logo: ping.jpg
