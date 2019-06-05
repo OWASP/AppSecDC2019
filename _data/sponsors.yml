@@ -28,3 +28,6 @@
     - logo: ping.jpg
       name: Ping Identity
       url : http://www.pingidentity.com/
+    - logo: Security-Journey-Logo.svg
+      name: Security Journey
+      url : https://www.securityjourney.com/
