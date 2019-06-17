@@ -12,6 +12,11 @@
     - logo: synopsys.jpg
       name: Synopsys
       url : https://www.synopsys.com/software-integrity.html
+- type: Silver
+  sponsors:
+    - logo: altitude_networks.jpg
+      name: Altitude Networks
+      url : http://www.altitudenetworks.com/
 - type: Sapphire
   sponsors:
     - logo: microfocus.png
