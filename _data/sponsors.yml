@@ -12,6 +12,9 @@
     - logo: synopsys.jpg
       name: Synopsys
       url : https://www.synopsys.com/software-integrity.html
+    - logo: checkmarx.svg
+      name: Checkmarx
+      url:  https://www.checkmarx.com/
 - type: Silver
   sponsors:
     - logo: altitude_networks.jpg
