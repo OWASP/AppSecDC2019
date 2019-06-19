@@ -42,3 +42,6 @@
     - logo: security_innovation.png
       name: Security Innovation
       url : https://www.securityinnovation.com/
+    - logo: veracode.svg
+      name: Veracode
+      url:  https://www.veracode.com/
