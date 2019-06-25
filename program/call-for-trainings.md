@@ -7,8 +7,9 @@ Call for Trainers is now open until May 31, 2019. **[Submit a Training Here](htt
 * CfT Opens April 17, 2019
 * Review committee Announced May 1, 2019
 * CfT Closes May 31, 2019
-* Notification of submitters June 21, 2019
-* Program announced  June 28, 2019
+* Notification of submitters July 1, 2019
+    * Due to volume of submissions, the notification date has been pushed back to July 1. We are sorry for any inconvenience. 
+* Program announced  July 8, 2019
 
 ## Training at Global AppSec
 

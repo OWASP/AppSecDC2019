@@ -7,8 +7,9 @@ Interested in speaking or providing training at Global AppSec - DC? The OWASP Fo
 * Call for Presentations/Trainers opens - APRIL 17
 * Review committee announced - APRIL 31
 * CfP Closes - MAY 31
-* Notification of submitters - JUNE 21
-* Program announced - JUNE 28
+* Notification of submitters - JULY 1
+    * Due to volume of submissions, the notification date has been pushed back to July 1. We are sorry for any inconvenience. 
+* Program announced - JULY 8
 
 ## Apply to present at Global AppSec - DC
 * [Call for Trainers](https://owasp.submittable.com/submit/137928/global-appsec-dc-2019-call-for-trainers)
