@@ -6,6 +6,10 @@
     url  : program/call-for-trainings
 - title: Sponsor
   url  : sponsors/
+- title: Venue
+  items:
+  - title: Transportation
+    url  : venue/transportation
 - title: About
   items:
   - title: Global AppSec
