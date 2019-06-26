@@ -38,7 +38,6 @@ If you are interested in becoming a Corporate or Single Event Sponsor, please co
 | Discounted Passes | 50% Full Conference | 50% Full Conference | 20% Full Conference | 20% Full Conference |
 | Training Passes | 10 Seats |10 Seats |10 Seats |2 Seats |
 | On-Site Training | 10 Days | 5 Days | None| None |
-| OWASP Project Attribution | Up to $20,000 | Up to $10,000 | Up to $5,000 | Up to $2,500 |
 | Recognition on website | Bio and Logo | Bio and Logo | Bio and Logo | Bio and Logo |
 | Press Release | Yes | Yes | Yes | Yes |
 | Discounted Corporate Membership | Yes | Yes | Yes | Yes |
