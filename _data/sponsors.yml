@@ -31,6 +31,9 @@
     - logo: netsparker.png
       name: NetSparker
       url : https://www.netsparker.com/
+    - logo: rapid7.png
+      name: Rapid7
+      url : http://www.rapid7.com/
 - type: Ruby
   sponsors:
     - logo: ping.jpg
