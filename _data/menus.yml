@@ -7,7 +7,9 @@
 - title: Sponsor
   url  : sponsors/
 - title: Venue
-  items:
+  items: 
+  - title: Hotel Booking Info
+    url  : venue/
   - title: Transportation
     url  : venue/transportation
 - title: About
