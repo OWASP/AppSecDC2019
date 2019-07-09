@@ -39,7 +39,7 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{menu.title}}</a>
             <ul class="dropdown-menu">
             {% for item in menu.items %}
-		{% if item.url contains "://" %}
+		{% if item.url contains '://' %}
 		    <li><a href="{{item.url}}">{{item.title}}</a></li>
 		{% else %}
                     <li><a href="{{baseUrl}}{{item.url}}">{{item.title}}</a></li>
@@ -49,7 +49,11 @@
         </li>
       {% else %}
         <li>
-          <a href="{{baseUrl}}{{menu.url}}">{{menu.title}}</a>
+          {% if item.url contains '://' %}
+	    <li><a href="{{item.url}}">{{item.title}}</a></li>
+	  {% else %}
+	    <li><a href="{{baseUrl}}{{item.url}}">{{item.title}}</a></li>
+	  {% endif %}
         </li>
       {% endif %}
     {% endfor %}
