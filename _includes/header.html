@@ -49,10 +49,10 @@
         </li>
       {% else %}
         <li>
-          {% if item.url contains '://' %}
-	    <a href="{{item.url}}">{{item.title}}</a>
+          {% if menu.url contains '://' %}
+	    <a href="{{menu.url}}">{{menu.title}}</a>
 	  {% else %}
-	    <a href="{{baseUrl}}{{item.url}}">{{item.title}}</a>
+	    <a href="{{baseUrl}}{{menu.url}}">{{menu.title}}</a>
 	  {% endif %}
         </li>
       {% endif %}
