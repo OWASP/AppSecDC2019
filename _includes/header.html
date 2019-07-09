@@ -50,9 +50,9 @@
       {% else %}
         <li>
           {% if item.url contains '://' %}
-	    <li><a href="{{item.url}}">{{item.title}}</a></li>
+	    <a href="{{item.url}}">{{item.title}}</a>
 	  {% else %}
-	    <li><a href="{{baseUrl}}{{item.url}}">{{item.title}}</a></li>
+	    <a href="{{baseUrl}}{{item.url}}">{{item.title}}</a>
 	  {% endif %}
         </li>
       {% endif %}
