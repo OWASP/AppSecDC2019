@@ -1,0 +1,70 @@
+
+section.keynotes-front {
+	margin: 0em;
+	padding: 0em;
+	ul {
+		display: flex;
+		justify-content: center;
+		margin: 0em;
+		padding: 0em;
+	}
+	a {
+		list-style-type: none !important;
+		width: 250px;
+		height: 250px;
+		background-position: center center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		flex-shrink: 0;
+		flex-grow: 0;
+		filter: grayscale(100%);
+
+		&:hover {
+			filter: grayscale(0%);
+		}
+	}
+}
+
+div.keynote-full {
+	ul {
+		list-style: none;
+	}
+	li {
+		padding-left: 210px;
+		list-style-type: none !important;
+		clear: both;
+	}
+
+	img {
+		width: 200px; 
+		height: 200px; 
+		border-radius: 50%;
+		float: left;
+		background-size: cover;
+		margin-left: -220px;
+	}
+}
+
+@media (max-width: 500px) {
+	section.keynotes-front {
+		a {
+			width: 32%;
+		height: 150px
+		}
+	}
+	div.keynote-full {
+		ul {
+			padding: 0 0 0 0;
+			
+			li {
+				padding-left: 0px;
+			}
+			img {
+				float: none;
+				margin-left: 0px;
+				margin: 0 auto;
+			}
+		}
+	}
+}
+
