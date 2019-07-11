@@ -9,7 +9,7 @@ Global AppSec Events provide unique opportunities for members, the community, an
 * Single event sponsorships
 * Packages for multiple events, training, and other benefits
 
-If you are interested in becoming a Corporate or Single Event Sponsor, please contact 
+If you are interested in becoming a Single or Corporate Event Sponsor, please contact 
 [kelly.santalucia@owasp.com](mailto:kelly.santalucia@owasp.com?subject=Sponsorship%20Interest) for more information.
 
 ## Single Event Sponsorships
