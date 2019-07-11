@@ -1,0 +1,12 @@
+<section class="keynotes-front inverse">
+	<h2>Keynote speakers</h2>
+	<ul>
+	{% for speaker in site.data.keynotespeakers %}
+		{% if speaker.name %}
+			<a style="background-image: url(/assets/images/keynotes/{{speaker.image | default: 'owasp_logo.png'}});{{speaker.style}};" alt="{{speaker.name}}"
+			href="/program/keynotes#{{speaker.name}}"
+			></a>
+		{% endif %}
+	{% endfor %}
+	</ul>
+</section>
