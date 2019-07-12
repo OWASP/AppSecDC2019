@@ -2,6 +2,10 @@
 section.keynotes-front {
 	margin: 0em;
 	padding: 0em;
+	h2 {
+		display: flex;
+		justify-content: center;
+	}
 	ul {
 		display: flex;
 		justify-content: center;
