@@ -6,9 +6,10 @@
 			<!--<a style="background-image: url(/assets/images/keynotes/{{speaker.image | default: 'owasp_logo.png'}});{{speaker.style}};" alt="{{speaker.name}}"
 			href="/program/keynotes#{{speaker.name}}"
 			></a>-->
-		        <a style="background-image: url(/assets/images/keynotes/{{speaker.image | default: 'owasp_logo.png'}});{{speaker.style}};" alt="{{speaker.name}}"
-			href="#"
-			></a>
+			<div>
+				<div class="keynote-img" style="background-image: url(/assets/images/keynotes/{{speaker.image | default: 'owasp_logo.png'}});"></div>
+					{{ speaker.name }}
+			</div>
 		{% endif %}
 	{% endfor %}
 	</ul>

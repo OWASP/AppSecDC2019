@@ -13,7 +13,14 @@ section.keynotes-front {
 		margin: 0em;
 		padding: 0em;
 	}
-	a {
+	
+	div {
+		width:250px;
+		text-align:center;
+		padding-bottom:.75em;
+	}
+
+	div.keynote-img {
 		list-style-type: none !important;
 		width: 250px;
 		height: 250px;
@@ -28,6 +35,7 @@ section.keynotes-front {
 			filter: grayscale(0%);
 		}
 	}
+	
 }
 
 div.keynote-full {
@@ -50,11 +58,14 @@ div.keynote-full {
 	}
 }
 
-@media (max-width: 500px) {
+@media (max-width: 750px) {
 	section.keynotes-front {
-		a {
-			width: 32%;
-		height: 150px
+		div {
+			width:150px;
+		}
+		div.keynote-img {
+			width: 150px;
+			height: 150px;
 		}
 	}
 	div.keynote-full {
