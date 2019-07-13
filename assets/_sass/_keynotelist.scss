@@ -1,7 +1,7 @@
 
 section.keynotes-front {
 	margin: 0em;
-	padding: 0em;
+	padding: 1em 0em 0em 0em;
 	h2 {
 		display: flex;
 		justify-content: center;
@@ -13,16 +13,11 @@ section.keynotes-front {
 		margin: 0em;
 		padding: 0em;
 	}
-	
-	div {
-		width:250px;
-		text-align:center;
-		padding-bottom:.75em;
-	}
 
-	div.keynote-img {
+	li.keynote-img {
 		list-style-type: none !important;
-		width: 250px;
+		max-width: 250px;
+		width: 33.333%;
 		height: 250px;
 		background-position: center center;
 		background-size: cover;
@@ -30,6 +25,16 @@ section.keynotes-front {
 		flex-shrink: 0;
 		flex-grow: 0;
 		filter: grayscale(100%);
+		position: relative;
+
+		h4 {
+			width: 100%;
+			position: absolute;
+			bottom: 0px;
+			text-align: center;
+			background: rgba(0,0,0,0.5);
+			font-weight: normal;
+		}
 
 		&:hover {
 			filter: grayscale(0%);
@@ -58,7 +63,7 @@ div.keynote-full {
 	}
 }
 
-@media (max-width: 750px) {
+@media (max-width: 500px) {
 	section.keynotes-front {
 		div {
 			width:150px;
