@@ -1,4 +1,8 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.DS_Store
 /Gemfile
 /Gemfile.lock
 /favicon.ico
-_site/
