@@ -3,9 +3,9 @@
 	<ul>
 	{% for speaker in site.data.keynotespeakers %}
 		{% if speaker.name %}
-			<li class="keynote-img" style="background-image: url(/assets/images/keynotes/{{speaker.image | default: 'owasp_logo.png'}});">
+		    <a href="/program/keynotes#{{speaker.name}}"><li class="keynote-img" style="background-image: url(/assets/images/keynotes/{{speaker.image | default: 'owasp_logo.png'}});width:250px;">
 				<h4>{{ speaker.name }}</h4>
-			</li>
+			</li></a>
 		{% endif %}
 	{% endfor %}
 	</ul>

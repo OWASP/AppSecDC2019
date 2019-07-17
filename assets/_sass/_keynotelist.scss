@@ -8,6 +8,11 @@ section.keynotes-front {
 		font-weight: bold;
 	}
 	ul {
+		a {
+			color: inherit;
+			text-decoration: none;
+		  }
+
 		display: flex;
 		justify-content: center;
 		margin: 0em;
@@ -40,7 +45,6 @@ section.keynotes-front {
 			filter: grayscale(0%);
 		}
 	}
-	
 }
 
 div.keynote-full {
@@ -49,6 +53,7 @@ div.keynote-full {
 	}
 	li {
 		padding-left: 210px;
+		padding-bottom:40px;
 		list-style-type: none !important;
 		clear: both;
 	}
@@ -59,7 +64,13 @@ div.keynote-full {
 		border-radius: 50%;
 		float: left;
 		background-size: cover;
-		margin-left: -220px;
+		margin-left:-240px;
+	}
+
+	p {
+		margin: 0px;
+		text-indent:20px;
+		padding:0px;
 	}
 }
 
@@ -84,6 +95,17 @@ div.keynote-full {
 				float: none;
 				margin-left: 0px;
 				margin: 0 auto;
+			}
+		}
+	}
+}
+
+@media (max-width: 800px) {
+	div.keynote-full {
+		ul {
+			img {
+				width:150px;
+				height:150px;
 			}
 		}
 	}

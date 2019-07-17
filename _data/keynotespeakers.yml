@@ -1,49 +1,49 @@
 - image: VandanaVerma_sm.jpg
   name: Vandana Verma
   title: Security Architect, IBM India Software Labs
-  bio: Vandana is a seasoned security professional with a decade worth of experience 
-       ranging from application security to infrastructure and now dealing with cloud security. 
+  bio: <p>Vandana is a seasoned security professional with a decade worth of experience 
+       ranging from application security to infrastructure and now dealing with cloud security.
        She works with various communities (InfosecGirls, OWASP, WoSec and null) and is passionate 
        about increasing female participation in Infosec space. She is currently working as a 
        Security Architect with IBM India Software Labs. She has spoken and trained at various 
        conferences AppSec Europe, AppSec USA, Nullcon, Security Guild 2019, BSides Delhi, c0c0n 
        (Kerala Police Conference) and Global AppSec Tel Aviv. She is part of the crew for OWASP 
        SeaSides and Bsides Delhi conferences. She also does CFP Reviews for AppSec Europe, Global 
-       AppSec Tel Aviv, Global AppSec DC and Grace Hopper US 2019 (Security/Privacy Review Track). 
+       AppSec Tel Aviv, Global AppSec DC and Grace Hopper US 2019 (Security/Privacy Review Track).</p> 
   subject:  
   abstract:
+  style: background-repeat:no-repeat;
 - image: jameswickett-headshot-2019.jpg
   name: James Wickett
   title: Sr Security Engineer and Developer Advocate, Verica
-  bio: James is a dynamic speaker on software engineering topics ranging from security to development 
+  bio: <p>James is a dynamic speaker on software engineering topics ranging from security to development 
        practices. He spends a lot of time at the intersection of the DevOps and Security communities, 
        and seeing the gap in software testing, James founded the open source project, Gauntlt, to serve 
-       as a Rugged Testing Framework.
-       
-       James works as a Sr. Security Engineer and Developer Advocate at Verica, and is he is the author 
+       as a Rugged Testing Framework.</p>
+       <p>James works as a Sr. Security Engineer and Developer Advocate at Verica, and is he is the author 
        of several courses on DevOps and DevSecOps at LinkedIn Learning. His courses include DevOps 
        Foundations, Infrastructure as Code, DevSecOps&#58; Automated Security Testing, Continuous Delivery 
-       (CI/CD), Site Reliability Engineering, and more.
-       
-       James is the creator and founder of the Lonestar Application Security Conference, which is the 
+       (CI/CD), Site Reliability Engineering, and more.</p>
+       <p>James is the creator and founder of the Lonestar Application Security Conference, which is the 
        largest annual security conference in Austin, TX. He also runs DevOps Days Austin and Serverless 
-       Days Austin. He previously served on the global DevOps Days board.
-       
-       In his spare time, he is trying to learn how to make a perfect BBQ brisket.
+       Days Austin. He previously served on the global DevOps Days board.</p>
+       <p>In his spare time, he is trying to learn how to make a perfect BBQ brisket.</p>
   subject: 
   abstract: 
+  style: background-repeat:no-repeat; margin-top:24px;
 - image: CarolineWong.jpg
   name: Caroline Wong
   title:
-  bio: Caroline’s close and practical information security knowledge stems from broad experience as a 
+  bio: <p>Caroline’s close and practical information security knowledge stems from broad experience as a 
        Cigital consultant, a Symantec product manager, and day-to-day leadership roles at eBay and Zynga. 
        Caroline is an advisor for RSA Conference and ISC2 North America. She has been featured in Forbes 
        and SC Magazine. Caroline was named one of the Top Women in Cloud by CloudNOW and received a Women 
        of Influence Award from the Executive Women’s Forum. 
-       
-       Caroline authored the popular textbook Security Metrics&#58; A Beginner’s Guide, published by 
+       </p>
+       <p>Caroline authored the popular textbook Security Metrics&#58; A Beginner’s Guide, published by 
        McGraw-Hill. She graduated from U.C. Berkeley with a B.S. in Electrical Engineering and Computer 
        Sciences and holds a certificate in Finance and Accounting from Stanford University Graduate School 
-       of Business.
+       of Business.</p>
   subject: 
   abstract: 
+  style: background-repeat:no-repeat;
