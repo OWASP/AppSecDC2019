@@ -1,0 +1,29 @@
+section.training {
+    padding-left:0px;
+    h3 {
+        background-color:$lightblue;
+        padding: 4px;
+        width:100%;
+        color:white;
+    }
+    
+    ul {
+		display: flex;
+		flex-wrap: wrap;
+		list-style: none;
+		padding: 1em 0em;
+		justify-content: space-between;
+
+
+		&:after {
+			content: "";
+			flex: auto;
+		}
+
+		> li {
+			text-align: left;
+			padding: 0em 1em 0em 0em;
+			list-style: none;
+		}
+	}
+}

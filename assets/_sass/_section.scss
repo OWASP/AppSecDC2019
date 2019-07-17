@@ -35,6 +35,8 @@ section {
 	table {
 		width: 100%;
 		margin-bottom: 1em;
+		table-layout: fixed;
+		
 		th, td {
 			padding: 0.5em;		
 		}
@@ -53,6 +55,12 @@ section {
 				background: #eee;
 			}
 		}
+
+		td::after { 
+			content: ''; 
+			display: block; 
+			width: 30px;
+			}
 	}
 }
 
