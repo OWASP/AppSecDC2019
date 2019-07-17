@@ -2,10 +2,10 @@
   url  : https://www.regonline.com/registration/login.aspx?eventID=2566994
 - title: Program
   items:
-  - title: Training
-    url  : program/trainings
   - title: Keynotes
     url  : program/keynotes
+  - title: Training
+    url  : program/trainings
 - title: Sponsor
   url  : sponsors/
 - title: Venue
