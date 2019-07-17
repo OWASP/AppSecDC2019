@@ -4,6 +4,8 @@
   items:
   - title: Training
     url  : program/trainings
+  - title: Keynotes
+    url  : program/keynotes
 - title: Sponsor
   url  : sponsors/
 - title: Venue
