@@ -57,4 +57,27 @@ section.training {
 		  margin-left: 30px;
 		  max-width:70%;
 	  }
+	
+	.tr-mobile-table {
+		border-left:8px;
+		border-left-style:solid;
+
+		div {
+			padding-left: 8px;
+		}
+
+		.class-title {
+			font-weight:bold;
+			font-size:larger;
+			padding-bottom: 8px;
+		}
+
+		.class-description {
+			padding-top: 8px;
+		}
+
+		.class-container:nth-of-type(even) {
+			background-color: #ddd;
+		}
+	}
 }
