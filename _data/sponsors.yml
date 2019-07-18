@@ -15,6 +15,9 @@
     - logo: checkmarx.svg
       name: Checkmarx
       url:  https://www.checkmarx.com/
+    - logo: warateklogo.jpg
+      name: Waratek
+      url:  https://www.waratek.com/
 - type: Silver
   sponsors:
     - logo: AltitudeNetworks.svg
@@ -34,6 +37,12 @@
     - logo: rapid7.png
       name: Rapid7
       url : http://www.rapid7.com/
+    - logo: securitycompass-stacked.jpg
+      name: Security Compass
+      url : https://securitycompass.com/
+    - logo: nowsecure_logo_horiz_medblue.png
+      name: NowSecure
+      url : https://www.nowsecure.com/
 - type: Ruby
   sponsors:
     - logo: ping.jpg
