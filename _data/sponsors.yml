@@ -17,10 +17,9 @@
       url:  https://www.checkmarx.com/
 - type: Silver
   sponsors:
-    - logo: altitude_networks.jpg
+    - logo: AltitudeNetworks.svg
       name: Altitude Networks
       url : http://www.altitudenetworks.com/
-      backgroundSize: contain;width:220px
 - type: Sapphire
   sponsors:
     - logo: microfocus.png
