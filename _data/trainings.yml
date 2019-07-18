@@ -1,0 +1,166 @@
+- type: 3
+  title: Three Day Training
+  days: Monday, September 9 to Wednesday, September 11
+  classes:
+      - title: Using the OWASP Application Security Verification Standard 4.0 to Secure Your Applications
+        description: This three day master class delivered by the three co-leaders of the project covers essential developer centric security 
+                     architecture and controls using the newly released OWASP Application Security Verification Standard 4.0.<br/>
+                     Instead of a blow by blow, control by control description of the standard, we take students on a journey of discovery of the major issues using 
+                     an interactive lab driven class structure. We strongly urge attendees to bring some code to follow along, or use the sample app 
+                     we will have on hand. Students should feel free to ask questions at any time to delve deeper into things they really need to know 
+                     to push their knowledge to the next level.<br/> 
+                     The course is primarily aimed at assisting developers produce more secure applications, 
+                     but anyone in the secure software delivery lifecycle should come - including architects, tech leads, developers, testers, and of 
+                     course application security professionals.
+        trainer: Andrew van der Stock
+        room: TBD
+- type: 2
+  title: Two Day Training
+  days: Tuesday, September 10 to Wednesday, September 11
+  classes:
+      - title: A Builder’s Guide to Single Page Application Security
+        description: 'Whether you like it or not, we all live in a world of Single Page Applications. Frontend JavaScript frameworks such as Angular 
+                      and React have changed the way we build web applications. However, did you know that these frameworks also disrupt the security 
+                      landscape? For example, Angular and React change the nature of XSS as we know it. They also conflict with modern security 
+                      measures, such as Content Security Policy.
+                      In this training, you will learn how to build secure Single Page Applications. We cover changes in the security model of an 
+                      application, common threats to an application, framework features that increase security, and state-of-the-art security 
+                      technology you should start using. Concretely, we will cover the following topics:
+                      <blockquote>
+                      XSS in Angular and React<br/>
+                      Advanced injection attacks<br/>
+                      The limitations of CSP in Single Page Applications<br/>
+                      Recent developments in CSP<br/>
+                      Protecting yourself against malicious third-party content<br/>
+                      JWT abuse and best practices<br/>
+                      The intricacies of Cross-Origin Resource Sharing<br/>
+                      Recent developments in using OAuth 2.0 and OpenID Connect
+                      </blockquote>
+                    The training consists of both lectures and hands-on lab sessions. Lectures go into depth on security threats and mitigation strategies. 
+                    Labs are conducted in a custom-built competitive lab environment. Security challenges give you hands-on experience with attacks and 
+                    defenses. You will walk away from this training with an overview of current best practices, along with actionable advice on implementing 
+                    them.'
+        trainer: Philippe De Ryck
+        room: TBD
+      - title: Seth & Ken’s Excellent Adventures in Secure Code Review
+        description: 'Have you ever been tasked with reviewing 3.2 million lines of code manually for SQL Injection, XSS, and Access Control flaws? 
+                      Have you been asked to review a new framework on short notice? Does the idea of reviewing Ruby, Go, or Node code leave you with
+                      heartburn? This course addresses all of these common challenges in modern code review. We have concentrated on taking our past 
+                      adventures in code review, the lessons we’ve learned along the way, and made them applicable for others who perform code reviews. 
+                      We will share our methodology to perform analysis of any source code and suss out security flaws, no matter the size of the code 
+                      base, or the framework, or the language.  You as a student will learn the methodology, techniques, approach, and tools used by 
+                      Seth Law and Ken Johnson to understand code flows, trace user input, identify vulnerabilities, and effectively secure an 
+                      application code base.<br/>
+                      <strong>Upon completion attendees will know</strong>:<br/>
+                      <blockquote>Students will take away knowledge and experience in approaching numerous code languages and frameworks to complete a 
+                      security source code review. In addition, the learned methodology can be customized by the attendee to fit into any organization’s 
+                      security SDLC. Finally, the attendee will have the tools to review source code for any web, mobile, or modern application, whether 
+                      or not the targeted language is specifically covered during the course.</blockquote>'
+        trainer: Seth Law, Ken Johnson
+        room: TBD
+      - title: Attacking and Defending Containerized Apps and Serverless Tech
+        description: 'Container and serverless technology has changed the way applications are developed and the way deployments are done. Organizations, 
+                      both large and small have openly embraced containerization to supplement traditional deployment paradigms like Virtual Machines and 
+                      Hypervisors.<br/>
+                      Containers have risen in popularity and has been widely used because they help package and deploy consistent-state applications 
+                      across multiple environments, and are also extremely scalable especially when they’re complemented with orchestration technologies.
+                      Serverless on the other hand, seems to be taking over at a rapid rate with increased usage of micro-services and polyglot 
+                      development of applications and services across organizations.<br/>
+                      However, security remains a key challenge that both Organizations and security practitioners face with containerized and serverless 
+                      deployments.While containers continue to be vulnerable to security threats that plague any typical application deployment, they 
+                      also face specific security threats related to the containerization daemon, the shared kernel and other shared resources like 
+                      network, process and the filesystem. Serverless deployments face risks such as insecure deployment configurations, inadequate 
+                      monitoring and logging of functions, broken authentication, function event data injection, insecure secret storage, and many more. 
+                      Attacking services and applications leveraging container and serverless technology requires specific skill set and a deep 
+                      understanding of their underlying architecture.'
+        trainer: Nithin Jois
+        room: TBD
+      - title: Secure Coding with the OWASP Top Ten
+        description: "The major cause of API and web application insecurity is insecure software development practices. This highly intensive and 
+                     interactive 2-day course provides essential application security training for web application and API developers and architects. 
+                     The class is a combination of lecture, security testing demonstration and code review. Students will learn the most common threats 
+                     against applications. More importantly, students will learn how to code secure web solutions via defense-based code samples.
+                     As part of this course, we will explore the use of third-party security libraries and frameworks to speed and standardize secure 
+                     development. We will highlight production quality and scalable controls from various languages and frameworks. This course will 
+                     include secure coding information for Java, PHP, Python, Javascript, and .NET programmers, but any software developer building web 
+                     applications and API's will benefit.<br/>
+                     <blockquote><strong>Student Requirements:</strong> Familiarity with the technical details of building web applications and API's from a software 
+                     engineering point of view.<br/>
+                     <strong>Laptop Requirements:</strong> Any laptop that can run an updated web browser and intercepting proxy tool.</blockquote>"
+        trainer: Jim Manico
+        room: TBD
+- type: 1
+  title: One Day Training
+  days: Wednesday, September 11
+  classes:
+      - title: Building an AppSec Program with OWASP
+        description: "Explore the OWASP universe and how to build an application security program with a budget of $0. Experience a practitioner's 
+                      guide for how to take the most famous OWASP projects and meld them together into a working program. Projects are broken down 
+                      into awareness/process/tools, with an explanation of the human resources required to make this successful.
+                      This course is a one-day training where there is a mixture of a lecture on a specific segment of OWASP projects, and then 
+                      a practical exercise for how to use that project as a component of an application security program. 
+                      The first group of projects is 'training/education'. These projects focus on high-level knowledge, methodology, and training 
+                      for the application security program. This group includes OWASP Top 10, OWASP Proactive Controls, cheat sheets, and training apps 
+                      (Juice Shop, DevSlop, and WebGoat). Discussions focus on the process of raising awareness with knowledge/training and building out 
+                      a program. The practical portion includes discussion of rolling out proactive controls and hands-on time with JuiceShop. 
+                      The second group is 'process/measurement'. These focus on requirements, code review, best practices, development libraries, and 
+                      building software without known vulnerabilities. This group includes ASVS, SAMM, threat modeling, Code Review guide, and the testing 
+                      guide. The end-to-end world of the developer is explored, from requirements through writing code. The working portion includes using 
+                      ASVS to assess a sample app, threat modeling a sample app, and using SAMM for a sample assessment. 
+                      The third group is 'tools'. This group focuses on tools, including the testing guide, Dependency Check, Threat Dragon, CRS, and ZAP. 
+                      The testing approach and touch points are discussed, as well as a high-level survey of the tools. The working portion includes using 
+                      ZAP to scan a sample application. <br/>
+                      All of these tools work together to form the basis of an application security program with a budget of $0 except for the people 
+                      resources to implement. This class teaches the projects to use as well as how to use them, with practical, hands-on experience.
+                      Audience: The audience for this session is two-fold. The first group is those that are interested in building an application security 
+                      program using the various tools and documents available from OWASP. The second group is those that want to experience multiple OWASP 
+                      tools and materials and use them in practical exercises.<br/>
+                      <blockquote>
+                      <strong>Prerequisites</strong>: Participants should have a foundational understanding of application/product security.<br/>
+                      <strong>Computer Setup</strong>: Bring a computer for executing the lab exercises. Participants should download the OWASP Proactive Controls, ASVS, 
+                      SAMM, and ZAP.</blockquote>"
+        trainer: Christopher Romeo
+        room: TBD
+      - title: HoneyDB Workshop
+        description: Honeypots can be implemented to discover new threat information or detect intruders on a network. However, while there are numerous free honeypots 
+                     available, many of them can be complicated to deploy or require additional engineering around them to consume log data. Are you curious to learn 
+                     more about honeypots? Are you interested in deploying your own honeypots on the Internet? HoneyDB is comprised of a honeypot agent and data 
+                     collection backend, which makes getting started with honeypots simple. In the HoneyDB honeypot workshop, you will learn about honeypots, configure 
+                     and deploy a honeydb-agent in the cloud, and use HoneyDB tools to query honeypot data. This workshop is for beginner levels and up. 
+                     See the latest details about this workshop at <a href="https://riskdiscovery.com/honeydb/workshop">HoneyDB Workshop</a>
+        trainer: Phillip Maddux
+        room: TBD
+      - title: DevSecOps - Automating Security in DevOps
+        description: "Modern enterprises are implementing the technical and cultural changes required to embrace  DevOps methodology. DevSecOps extends DevOps by 
+                      introducing security early into the SDLC process, thereby minimizing the security vulnerabilities and enhancing the software security posture. 
+                      In this workshop, we will show how this can be achieved through a series of live demonstrations and practical examples using open source tools.
+                      As part of this workshop attendees will receive a state-of-the-art DevSecOps tool-chest comprising of various open-source tools and scripts to 
+                      help the DevOps engineers in automating security within the CI/CD pipeline. While the workshop uses Java/J2EE framework, the workshop is 
+                      language agnostic and similar tools can be used against other application development frameworks.
+                      The workshop will also present various case studies on how critical bugs and security breaches affecting popular software and applications could 
+                      have been prevented using a simple DevSecOps approach.<br/>
+                      <blockquote>
+                      <strong>Who Should take this Course</strong><br/>
+                      DevSecOps Workshop, which will give the target audience a holistic approach in assessing and securing the web applications in an automated 
+                      fashion within the existing CI/CD pipeline, can be attended by DevOps engineers, security and solutions architects, system administrators and 
+                      anybody who is willing to inject security aspects in their DevOps process.<br/>
+                      <strong>Student Requirements</strong><br/>
+                      Our workshop will be delivered as an interactive session, so the attendees only need to carry a laptop with them. We also encourage the attendees 
+                      to download and try the tools and techniques discussed during the workshop as the instructor is demonstrating it.<br/>
+                      <strong>What Students Should Bring</strong><br/>
+                      A Laptop with Wifi connectivity and admin privileges.<br/>
+                      <strong>What Students will be Provided with</strong><br/>
+                      The attendees will also receive a free DevSecOps tool-chest (designed by the NotSoSecure team) which can be directly implemented in most CI/CD 
+                      pipelines.</blockquote>"
+        trainer: Anand Tiwari
+        room: TBD
+      - title: Women in AppSec Training
+        description: The Application Security Training is intended for students/professionals interested in making a career in the Information Security domain. This 
+                     training involves real-world scenarios that every Security Professional must be well versed with. It involves decompiling, real-time analyzing 
+                     and testing of the applications from a security standpoint.<br/>
+                     This training covers understanding the internals of web and mobile applications, Real-time testing of web applications and android applications 
+                     and a strategic approach to analyze applications for OWASP Top 10 vulnerabilities (Web) security issues such as Injections, Cross-Site Scripting 
+                     (XSS), CSRF Attacks, Insecure API’s, Insecure logging, Insecure communication, Insufficient cryptography, Insecure authentication and Poor code 
+                     quality and many more.
+        trainer: Vandana Verma
+        room: TBD  

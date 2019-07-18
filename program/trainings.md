@@ -1,33 +1,27 @@
 ---
 title: Conference Program
 ---
+<div>
+<section class="training">
+<h2>Trainings At Global AppSec DC 2019</h2>
 
-## Trainings At Global AppSec DC 2019
-
-
-
-### Three Day Training, Monday September 9 to Wednesday, September 11
-
-| Class | Trainer | Room | 
-| ----- | :-----: | :-----: |  
-| Using the OWASP Application Security Verification Standard 4.0 to Secure Your Applications | Andrew van der Stock | TBD |
-
-
-### Two Day Training, Tuesday September 10 and Wednesday, September 11
-
-| Class | Trainer | Room |
-| ----- | :-----: | :-----: |
-| A Builder’s Guide to Single Page Application Security | Philippe De Ryck  |  TBD   | 
-| Seth & Ken’s Excellent Adventures in Secure Code Review | Seth Law & Ken Johnson |  TBD  |
-| Attacking and Defending Containerized Apps and Serverless Tech | Nithin Jois |  TBD  |
-| Secure Coding with the OWASP Top Ten | Jim Manico |  TBD  |
-
-
-### One Day Training, Wednesday, September 11
-
-| Class | Trainer | Room |
-| ----- | :-----: | :-----: |
-| Building an AppSec Program with OWASP | Christopher Romeo |  TBD  |
-| HoneyDB Workshop | Phillip Maddux |  TBD  |
-| DevSecOps - Automating Security in DevOps | Anand Tiwari |  TBD  |
-| Women in AppSec Training | Vandana Verma |  TBD  |
+{% for training_type in site.data.trainings %}
+    <h3>{{ training_type.title }} - {{ training_type.days }}</h3>
+    <table>
+        <thead>
+            <tr><th>Class</th><th>Decription</th><th>Trainer</th><th>Room</th></tr>
+        </thead>
+        <tbody>
+        {% for class in training_type.classes %}
+        <tr>
+          <td>{{ class.title }}</td>
+          <td>{{ class.description }}</td>
+          <td>{{ class.trainer }}</td>
+          <td>{{ class.room }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endfor %}
+</section>
+</div>
