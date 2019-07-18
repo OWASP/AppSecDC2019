@@ -2,7 +2,7 @@
   title: Three Day Training
   classes:
       - title: Using the OWASP Application Security Verification Standard 4.0 to Secure Your Applications
-        days: Monday, September 9 to Wednesday, September 11
+        days: Monday, September 9 to<br/>Wednesday, September 11
         description: This three day master class delivered by the three co-leaders of the project covers essential developer centric security 
                      architecture and controls using the newly released OWASP Application Security Verification Standard 4.0.<br/>
                      Instead of a blow by blow, control by control description of the standard, we take students on a journey of discovery of the major issues using 
@@ -18,7 +18,7 @@
   title: Two Day Training
   classes:
       - title: A Builder’s Guide to Single Page Application Security
-        days: Monday, September 9 to Tuesday, September 10
+        days: Monday, September 9 to<br/>Tuesday, September 10
         description: 'Whether you like it or not, we all live in a world of Single Page Applications. Frontend JavaScript frameworks such as Angular 
                       and React have changed the way we build web applications. However, did you know that these frameworks also disrupt the security 
                       landscape? For example, Angular and React change the nature of XSS as we know it. They also conflict with modern security 
@@ -43,7 +43,7 @@
         trainer: Philippe De Ryck
         room: TBD
       - title: Seth & Ken’s Excellent Adventures in Secure Code Review
-        days: Monday, September 9 to Tuesday, September 10
+        days: Monday, September 9 to<br/>Tuesday, September 10
         description: 'Have you ever been tasked with reviewing 3.2 million lines of code manually for SQL Injection, XSS, and Access Control flaws? 
                       Have you been asked to review a new framework on short notice? Does the idea of reviewing Ruby, Go, or Node code leave you with
                       heartburn? This course addresses all of these common challenges in modern code review. We have concentrated on taking our past 
@@ -60,7 +60,7 @@
         trainer: Seth Law, Ken Johnson
         room: TBD
       - title: Attacking and Defending Containerized Apps and Serverless Tech
-        days: Monday, September 9 to Tuesday, September 10
+        days: Monday, September 9 to<br/>Tuesday, September 10
         description: 'Container and serverless technology has changed the way applications are developed and the way deployments are done. Organizations, 
                       both large and small have openly embraced containerization to supplement traditional deployment paradigms like Virtual Machines and 
                       Hypervisors.<br/>
@@ -78,7 +78,7 @@
         trainer: Nithin Jois and Abhay Bhargav
         room: TBD
       - title: Secure Coding with the OWASP Top Ten
-        days: Tuesday, September 10 to Wednesday, September 11
+        days: Tuesday, September 10 to<br/>Wednesday, September 11
         description: "The major cause of API and web application insecurity is insecure software development practices. This highly intensive and 
                      interactive 2-day course provides essential application security training for web application and API developers and architects. 
                      The class is a combination of lecture, security testing demonstration and code review. Students will learn the most common threats 
