@@ -2,7 +2,26 @@
 title: Conference Program
 ---
 <section class="training">
+<div>
 <h2>Training Classes</h2>
+<h4>Training subject to change based on trainer availability.</h4>
+</div>
+<br/>
+<div class="prices">
+    <table class="price-table">
+        <caption>Training Prices</caption>
+        <tr>
+            <td>3 days:</td>
+            <td> $2550.00</td>
+        </tr>
+        <tr>
+            <td>2 days:</td><td>$1700.00</td>
+        </tr>
+        <tr>
+            <td>1 day:</td><td>$850.00</td>
+        </tr>
+    </table>
+</div>
 <!--
 {% for training_type in site.data.trainings %}
     <h3>{{ training_type.title }}</h3>
