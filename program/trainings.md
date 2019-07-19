@@ -22,28 +22,6 @@ title: Conference Program
         </tr>
     </table>
 </div>
-<!--
-{% for training_type in site.data.trainings %}
-    <h3>{{ training_type.title }}</h3>
-    <div style="overflow-x:auto;">
-    <table class="tr-standard-table">
-        <thead>
-            <tr><th>Class</th><th>Decription</th><th>Trainer</th><th>Days</th></tr>
-        </thead>
-        <tbody>
-        {% for class in training_type.classes %}
-        <tr>
-          <td>{{ class.title }}</td>
-          <td>{{ class.description }}</td>
-          <td>{{ class.trainer }}</td>
-          <td>{{ class.days }}</td>
-        </tr>
-        {% endfor %}
-        </tbody>
-    </table>
-    </div>
-{% endfor %}
--->
 {% for training_type in site.data.trainings %}
 <h3 style="background-color: #{{ training_type.color }};">{{ training_type.title }}</h3>
 <div class="tr-mobile-table" style="border-left-color: #{{ training_type.color }} !important;">
