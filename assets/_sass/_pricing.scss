@@ -8,7 +8,23 @@ section.pricing {
 			background-color:$darkblue;
 			color: white;
 			font-weight: bold;
-		}
+        }
+        
+        .price {
+            text-align:left;
+        }
+    }
+
+    @media (max-width:800px){
+        .price-table{
+            .price {
+                text-align:center;
+            }
+        }
     }
 }
+
+
+
+
 

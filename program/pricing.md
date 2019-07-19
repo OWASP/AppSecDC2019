@@ -12,19 +12,19 @@ title: Pricing
         <caption>Conference Prices</caption>
         <tr>
             <td>Full Conference Registration</td>
-            <td> $895.00</td>
+            <td class="price"> $895.00</td>
         </tr>
         <tr>
             <td class="indent">Early-bird (first 50 registrants)</td>
-            <td> $695.00</td>
+            <td class="price"> $695.00</td>
         </tr>
         <tr>
             <td>Member Full Conference Registration</td>
-            <td>$720.00</td>
+            <td class="price">$720.00</td>
         </tr>
         <tr>
             <td class="indent"> Member Early-bird (first 50 registrants)</td>
-            <td> $520.00</td>
+            <td class="price"> $520.00</td>
         </tr>
     </table>
     <br/>
@@ -35,13 +35,13 @@ title: Pricing
         <caption>Training Prices</caption>
         <tr>
             <td>3 day training:</td>
-            <td> $2550.00</td>
+            <td class="price"> $2550.00</td>
         </tr>
         <tr>
-            <td>2 day training:</td><td>$1700.00</td>
+            <td>2 day training:</td><td class="price">$1700.00</td>
         </tr>
         <tr>
-            <td>1 day training:</td><td>$850.00</td>
+            <td>1 day training:</td><td class="price">$850.00</td>
         </tr>
     </table>
 </section>
