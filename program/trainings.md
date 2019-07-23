@@ -1,5 +1,5 @@
 ---
-title: Conference Program
+title: Training Program
 ---
 <section class="training">
 <div>
