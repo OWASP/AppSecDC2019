@@ -8,6 +8,8 @@
   items:
   - title: Keynotes
     url  : program/keynotes
+  - title: Schedule
+    url  : program/schedule
   - title: Training
     url  : program/trainings
 - title: Sponsor
