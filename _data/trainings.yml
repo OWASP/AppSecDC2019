@@ -179,6 +179,6 @@
                      and a strategic approach to analyze applications for OWASP Top 10 vulnerabilities (Web) security issues such as Injections, Cross-Site Scripting 
                      (XSS), CSRF Attacks, Insecure API’s, Insecure logging, Insecure communication, Insufficient cryptography, Insecure authentication and Poor code 
                      quality and many more.
-        trainer: Vandana Verma and Zoe Braiterman
+        trainer: Vandana Verma, Zoe Braiterman, Nicole Becher
         room: TBD  
         url: https://globalappsecdc2019.sched.com/event/SKdm
