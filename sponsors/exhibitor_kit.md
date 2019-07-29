@@ -1,3 +1,4 @@
+
 ## Overview
 On behalf of the OWASP Foundation, the AppSec USA 2019 conference planning team and everyone attending the OWASP AppSec USA 2019 conference, we would like to thank you for participating in this year’s event.
 
@@ -14,15 +15,15 @@ This confirmation packet provides important information including preparing for 
 | ------------- | ------------- |
 | [Register your onsite team](https://www.regonline.com/registration/login.aspx?eventID=2566994) |  ASAP | 
 | [Book your hotel room](https://book.passkey.com/gt/217380196?gtid=bc2f9118845f0d602d77268b91d69497) |  ASAP | 
-| [Order A/V equipment rental](LINK) from PSAV | ASAP |
-| Contact Freeman for [expo shipping](LINK) | August 1st |
-| [Secure your lead scanner](LINK) from 1st Sales | August 28th | 
+| [Order A/V equipment rental](/assets/pdf-files/PSAV_Exhibitor_Form.pdf) from PSAV | ASAP |
+| Contact Freeman for [expo shipping](/assets/pdf-files/Shipping_Instructions.pdf) | August 1st |
+| [Secure your lead scanner](https://1stsales.com/signup/appsecdc) from 1st Sales | August 28th | 
 | Exhibitor check-in & set-up | September 11, 12pm-5pm | 
 | Exhibitor tear-down | September 13, 4pm |
 
 ## Preparing You and Your Team
 * **REGISTER**: It is critical that both your expo staff and full conference pass holders register. Discount codes will be distributed to exhibitors.
-* **BOOK HOTEL**: OWASP has a room block for Global AppSec DC 2019 attendees and exhibitors. To book a room at the conference hotel please use https://book.passkey.com/gt/217380196?gtid=bc2f9118845f0d602d77268b91d69497  and be sure to mention “OWASP” to receive the special discounted rate. 
+* **BOOK HOTEL**: OWASP has a room block for Global AppSec DC 2019 attendees and exhibitors. To book a room at the conference hotel [please use this link](https://book.passkey.com/gt/217380196?gtid=bc2f9118845f0d602d77268b91d69497) and be sure to mention "OWASP" to receive the special discounted rate. 
 * Conference Passes includes: Coffee and lunch on Thursday, September 12th & Friday, September 13th, access to the conference talks & expo area, social events, and conference activities.
 * Expo Only Passes include: Coffee and lunch on Thursday, September 12th & Friday, September 13th & access to the expo area. It does NOT INCLUDE: access to the conference talks, conference activities or social events. 
 * Single Event Sponsors:
@@ -39,14 +40,13 @@ This confirmation packet provides important information including preparing for 
    * Thursday September 12th 9am-6pm
    * Friday, September 13th 9am-4pm
 * Vendor Tear Down: Friday, September 13th 4pm. All vendor areas must be torn down by 7pm.
-* Exhibitor Floor Plan: Selection of expo space is chosen according to sponsorship level and then by date payment was received in full. Selection will begin shortly. (View the Floor Plan](LINK)
+* Exhibitor Floor Plan: Selection of expo space is chosen according to sponsorship level and then by date payment was received in full. Selection will begin shortly. View the [floor plan](/assets/pdf-files/Floor_Plan.pdf) of Exposition Hall.
 
 ### Conference Schedule
 Details on the event schedule can be found here: https://dc.globalappsec.org/program/trainings
 
 ### Shipping Materials:
-For booth materials shipping & receiving to and after the show – SEE DOCUMENT FROM FREEMAN
-Freeman: Ph (301) 918-7975 Fax: (469) 621-5609 
+For booth materials shipping & receiving to and after the show, [complete this form](/assets/pdf-files/Freeman_Kit.pdf) then contact Freeman at +1-301-918-7975
 Email: FreemanwashingtonES@freemanco.com
 For food/beverage orders at your expo area please contact: Shane Jones Email: shane.jones@marriott.com
 
@@ -108,16 +108,3 @@ Ph:1 (202) 328-2000
 
 OTHER QUESTIONS?
 Is there something we missed? Please Contact Us 
-
-
-
-
-
-
-
-
-
-
-
-
-
