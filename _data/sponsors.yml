@@ -21,6 +21,10 @@
     - logo: snyk.png
       name: Snyk
       url : https://snyk.io/
+    - logo: wallarm.png
+      name: Wallarm
+      url : https://wallarm.com/
+
 - type: Silver
   sponsors:
     - logo: AltitudeNetworks.svg
@@ -63,6 +67,6 @@
     - logo: nVisum_logo_hs.png
       name: nVisium
       url:  https://nvisium.com/
-    - logo: https://salt.security/
+    - logo: salt.png
       name: Salt security
-      logo: salt.png
+      url: https://salt.security/
