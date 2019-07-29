@@ -1,3 +1,19 @@
+- image: neal_ziring320x320px.jpg
+  name : Neal Ziring
+  title: Technical Director for the National Security Agency’s Capabilities Directorate
+  bio  : <p>Mr. Neal Ziring is the Technical Director for the National Security Agency’s Capabilities Directorate, 
+         serving as a technical advisor to the Capabilities Director, Deputy Director, and other senior leadership. 
+         Mr. Ziring is responsible for setting the technical direction across many parts of the capabilities 
+         mission space, including in cyber-security. Mr. Ziring tracks technical activities, promotes the technical 
+         health of the staff, and acts as the liaison to various industry, intelligence, academic, and government 
+         partners. Prior to the formation of the Capabilities Directorate, Mr. Ziring served 5 years as Technical 
+         Director of the Information Assurance Directorate.</p>
+         <p>His personal expertise areas include security automation, IPv6, cloud computing, cross-domain 
+         information exchange, and data access control, and cyber defense.</p>
+         <p>Prior to coming to NSA in 1988, Neal worked at AT&T Bell Labs. He has BS degrees in Computer Science and 
+         Electrical Engineering, and an MS degree in Computer Science, all from Washington University in St. Louis.</p>
+  subject:
+  abstract:
 - image: VandanaVerma_sm.jpg
   name: Vandana Verma
   title: Security Architect, IBM India Software Labs
@@ -12,6 +28,22 @@
        AppSec Tel Aviv, Global AppSec DC and Grace Hopper US 2019 (Security/Privacy Review Track).</p> 
   subject:  
   abstract:
+  style: background-repeat:no-repeat;
+- image: CarolineWong.jpg
+  name: Caroline Wong
+  title:
+  bio: <p>Caroline’s close and practical information security knowledge stems from broad experience as a 
+       Cigital consultant, a Symantec product manager, and day-to-day leadership roles at eBay and Zynga. 
+       Caroline is an advisor for RSA Conference and ISC2 North America. She has been featured in Forbes 
+       and SC Magazine. Caroline was named one of the Top Women in Cloud by CloudNOW and received a Women 
+       of Influence Award from the Executive Women’s Forum. 
+       </p>
+       <p>Caroline authored the popular textbook Security Metrics&#58; A Beginner’s Guide, published by 
+       McGraw-Hill. She graduated from U.C. Berkeley with a B.S. in Electrical Engineering and Computer 
+       Sciences and holds a certificate in Finance and Accounting from Stanford University Graduate School 
+       of Business.</p>
+  subject: 
+  abstract: 
   style: background-repeat:no-repeat;
 - image: jameswickett-headshot-2019.jpg
   name: James Wickett
@@ -28,22 +60,6 @@
        largest annual security conference in Austin, TX. He also runs DevOps Days Austin and Serverless 
        Days Austin. He previously served on the global DevOps Days board.</p>
        <p>In his spare time, he is trying to learn how to make a perfect BBQ brisket.</p>
-  subject: 
-  abstract: 
-  style: background-repeat:no-repeat; margin-top:24px;
-- image: CarolineWong.jpg
-  name: Caroline Wong
-  title:
-  bio: <p>Caroline’s close and practical information security knowledge stems from broad experience as a 
-       Cigital consultant, a Symantec product manager, and day-to-day leadership roles at eBay and Zynga. 
-       Caroline is an advisor for RSA Conference and ISC2 North America. She has been featured in Forbes 
-       and SC Magazine. Caroline was named one of the Top Women in Cloud by CloudNOW and received a Women 
-       of Influence Award from the Executive Women’s Forum. 
-       </p>
-       <p>Caroline authored the popular textbook Security Metrics&#58; A Beginner’s Guide, published by 
-       McGraw-Hill. She graduated from U.C. Berkeley with a B.S. in Electrical Engineering and Computer 
-       Sciences and holds a certificate in Finance and Accounting from Stanford University Graduate School 
-       of Business.</p>
   subject: 
   abstract: 
   style: background-repeat:no-repeat;
