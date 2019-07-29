@@ -167,7 +167,7 @@
                       <strong>What Students will be Provided with</strong><br/>
                       The attendees will also receive a free DevSecOps tool-chest (designed by the NotSoSecure team) which can be directly implemented in most CI/CD 
                       pipelines.</blockquote>"
-        trainer: Anand Tiwari
+        trainer: Anand Tiwari, Rohit Salecha
         room: TBD
         url: https://globalappsecdc2019.sched.com/event/SKIC
       - title: Women in AppSec Training
@@ -179,6 +179,6 @@
                      and a strategic approach to analyze applications for OWASP Top 10 vulnerabilities (Web) security issues such as Injections, Cross-Site Scripting 
                      (XSS), CSRF Attacks, Insecure API’s, Insecure logging, Insecure communication, Insufficient cryptography, Insecure authentication and Poor code 
                      quality and many more.
-        trainer: Vandana Verma and Zoe Braiterman
+        trainer: Vandana Verma, Zoe Braiterman, Nicole Becher
         room: TBD  
         url: https://globalappsecdc2019.sched.com/event/SKdm

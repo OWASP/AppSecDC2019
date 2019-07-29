@@ -18,6 +18,9 @@
     - logo: warateklogo.jpg
       name: Waratek
       url:  https://www.waratek.com/
+    - logo: snyk.png
+      name: Snyk
+      url : https://snyk.io/
 - type: Silver
   sponsors:
     - logo: AltitudeNetworks.svg
