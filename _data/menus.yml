@@ -13,8 +13,9 @@
   - title: Training
     url  : program/trainings
 - title: Sponsor
-  url  : sponsors/
   items:
+  - title: Sponsor Levels
+    url  : sponsors/
   - title: Exhibitor Info
     url  : sponsors/exhibitor_kit
 - title: Venue
