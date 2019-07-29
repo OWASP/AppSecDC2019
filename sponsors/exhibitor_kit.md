@@ -40,13 +40,13 @@ This confirmation packet provides important information including preparing for 
    * Thursday September 12th 9am-6pm
    * Friday, September 13th 9am-4pm
 * Vendor Tear Down: Friday, September 13th 4pm. All vendor areas must be torn down by 7pm.
-* Exhibitor Floor Plan: Selection of expo space is chosen according to sponsorship level and then by date payment was received in full. Selection will begin shortly. View the [floor plan](/assets/pdf-files/Floor_Plan.pdf) of Exposition Hall.
+* Exhibitor Floor Plan: Selection of expo space is chosen according to sponsorship level and then by date payment was received in full. Selection will begin shortly. View the [floor plan](/assets/pdf_files/Floor_Plan.pdf) of Exposition Hall.
 
 ### Conference Schedule
 Details on the event schedule can be found here: https://dc.globalappsec.org/program/trainings
 
 ### Shipping Materials:
-For booth materials shipping & receiving to and after the show, [complete this form](/assets/pdf-files/Freeman_Kit.pdf) then contact Freeman at +1-301-918-7975
+For booth materials shipping & receiving to and after the show, [complete this form](/assets/pdf_files/Freeman_Kit.pdf) then contact Freeman at +1-301-918-7975
 Email: FreemanwashingtonES@freemanco.com
 For food/beverage orders at your expo area please contact: Shane Jones Email: shane.jones@marriott.com
 
