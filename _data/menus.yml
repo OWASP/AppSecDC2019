@@ -14,6 +14,9 @@
     url  : program/trainings
 - title: Sponsor
   url  : sponsors/
+  items:
+  - title: Exhibitor Info
+    url  : sponsors/exhibitor_kit
 - title: Venue
   items: 
   - title: Hotel Booking Info
