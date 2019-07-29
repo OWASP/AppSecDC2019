@@ -24,7 +24,9 @@
     - logo: wallarm.png
       name: Wallarm
       url : https://wallarm.com/
-
+    - logo: scw.png
+      name: Secure Code Warriors
+      url : https://securecodewarrior.com/
 - type: Silver
   sponsors:
     - logo: AltitudeNetworks.svg
