@@ -40,7 +40,7 @@ This confirmation packet provides important information including preparing for 
    * Thursday September 12th 9am-6pm
    * Friday, September 13th 9am-4pm
 * Vendor Tear Down: Friday, September 13th 4pm. All vendor areas must be torn down by 7pm.
-* Exhibitor Floor Plan: Selection of expo space is chosen according to sponsorship level and then by date payment was received in full. Selection will begin shortly. View the [floor plan](/assets/pdf_files/Floor_Plan.pdf) of Exposition Hall.
+* Exhibitor Floor Plan: Selection of expo space is chosen according to sponsorship level and then by date payment was received in full. Selection will begin shortly. Floor Plan will be made available soon.
 
 ### Conference Schedule
 Details on the event schedule can be found here: https://dc.globalappsec.org/program/trainings
