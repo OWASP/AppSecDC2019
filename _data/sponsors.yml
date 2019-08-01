@@ -27,6 +27,9 @@
     - logo: scw.png
       name: Secure Code Warriors
       url : https://securecodewarrior.com/
+    - logo: hcl.png
+      name: HCL
+      url : http://www.hcltech.com/
 - type: Silver
   sponsors:
     - logo: AltitudeNetworks.svg
