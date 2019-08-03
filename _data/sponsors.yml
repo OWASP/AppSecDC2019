@@ -75,3 +75,6 @@
     - logo: salt.png
       name: Salt security
       url: https://salt.security/
+    - logo: whitesource.png
+      name: WhiteSource
+      url : http://www.whitesourcesoftware.com/
