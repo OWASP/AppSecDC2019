@@ -78,3 +78,6 @@
     - logo: whitesource.png
       name: WhiteSource
       url : http://www.whitesourcesoftware.com/
+    - logo: detectify.png
+      name: Detectify
+      url : http://detectify.com/
