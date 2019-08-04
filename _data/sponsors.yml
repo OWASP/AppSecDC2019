@@ -26,6 +26,7 @@
       url : https://wallarm.com/
     - logo: scw.png
       name: Secure Code Warriors
+      backgroundSize: auto 140%;
       url : https://securecodewarrior.com/
     - logo: hcl.png
       name: HCL
