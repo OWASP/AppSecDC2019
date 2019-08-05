@@ -16,7 +16,7 @@ This confirmation packet provides important information including preparing for 
 | [Register your onsite team](https://www.regonline.com/registration/login.aspx?eventID=2566994) |  ASAP | 
 | [Book your hotel room](https://book.passkey.com/gt/217380196?gtid=bc2f9118845f0d602d77268b91d69497) |  ASAP | 
 | [Order A/V equipment rental](/assets/pdf_files/PSAV_Exhibitor_Form.pdf) from PSAV | ASAP |
-| Contact Freeman for [expo shipping](/assets/pdf_files/Shipping_Instructions.pdf) | August 1st |
+| Contact Freeman for [expo shipping](/assets/pdf_files/FREEMAN_GlobalAPPSEC_492285_KitFinal_5-8-19.pdf) | August 1st |
 | [Secure your lead scanner](https://1stsales.com/signup/appsecdc) from 1st Sales | August 28th | 
 | Exhibitor check-in & set-up | September 11, 12pm-5pm | 
 | Exhibitor tear-down | September 13, 4pm |
