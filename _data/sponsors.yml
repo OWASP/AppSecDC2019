@@ -31,6 +31,9 @@
     - logo: hcl.png
       name: HCL
       url : https://www.hcltechsw.com/wps/portal/products/appscan
+    - logo: shiftleft.png
+      name: ShiftLeft
+      url : http://www.shiftleft.io/
 - type: Silver
   sponsors:
     - logo: AltitudeNetworks.svg
