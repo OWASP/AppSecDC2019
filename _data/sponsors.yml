@@ -100,3 +100,9 @@
     - logo: codedx.png
       name: Code Dx
       url:  http://www.codedx.com/
+    - logo: qualys.png
+      name: Qualys
+      url:  https://www.qualys.com/
+    - logo: sonatype.png
+      name: Sonatype
+      url:  http://www.sonatype.com/
