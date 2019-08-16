@@ -12,6 +12,8 @@
     url  : program/schedule
   - title: Training
     url  : program/trainings
+  - title: Capture the Flag
+    url  : program/capture-the-flag
 - title: Sponsor
   items:
   - title: Opportunities
