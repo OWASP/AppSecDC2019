@@ -5,7 +5,7 @@ layout: multisection
 
 
 <section class="team-list">
-	<h2>Organizing Committee</h2>
+	<h2>Event Team</h2>
 	<ul>
 	{% for member in site.data.team.conferenceteam %}
 	<li>
