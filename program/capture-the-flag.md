@@ -8,5 +8,5 @@ Want to test your skills in identifying web app vulnerabilities?  Join OWASP and
 
 For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win fantastic prizes! CMD+CTRL is ideal for development teams to train and develop skills, but anyone involved in keeping your organization’s data secure can play - from developers to managers and even CISOs.
 
-Register early to reserve your spot!
+**Register early to reserve your spot!**
 [CMD+CTRL Web Application Cyber Range Registration](https://web.securityinnovation.com/owaspdc2019) 
