@@ -1,6 +1,6 @@
 
 ## Overview
-On behalf of the OWASP Foundation, the AppSec USA 2019 conference planning team and everyone attending the OWASP AppSec USA 2019 conference, we would like to thank you for participating in this year’s event.
+On behalf of the OWASP Foundation, the conference planning team and everyone attending the conference, we would like to thank you for participating in this year’s event.
 
 We want to do everything we can to make your experience as positive and successful as possible. As you go through this kit, we urge you to contact us with any questions or concerns you may have.
 
