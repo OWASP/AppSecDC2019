@@ -80,7 +80,7 @@
                       monitoring and logging of functions, broken authentication, function event data injection, insecure secret storage, and many more. 
                       Attacking services and applications leveraging container and serverless technology requires specific skill set and a deep 
                       understanding of their underlying architecture.'
-        trainer: Nithin Jois and Abhay Bhargav
+        trainer: Sudarshan Narayanan and Tilak Thimmappa
         room: TBD
         url: https://globalappsecdc2019.sched.com/event/SK9t
       - title: Secure Coding with the OWASP Top Ten
