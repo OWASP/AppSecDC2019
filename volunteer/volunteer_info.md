@@ -9,7 +9,7 @@ The following provides important information including preparing for the event, 
 
 | Task | Deadline | 
 | ------------- | ------------- |
-| [Register](https://www.regonline.com/registration/Checkin.aspx?EventId=2568596) |  ASAP | 
+| [Register](https://www.regonline.com/registration/login.aspx?eventID=2566994) |  ASAP | 
 | [Book your hotel room](https://book.passkey.com/go/appsec2019) |  ASAP | 
 | Volunteer Check-in | 15 minutes before shift with Volunteer Coordinator | 
 
