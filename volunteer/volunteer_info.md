@@ -16,7 +16,7 @@ The following provides important information including preparing for the event, 
 ## Preparing for the Conference
 * REGISTER: It is critical that you register. Discount codes will be distributed to volunteers.
 
-* BOOK HOTEL: OWASP has a room block for Global AppSec DC 2019. To book a room at the conference hotel [please use this link](https://book.passkey.com/gt/217380196?gtid=bc2f9118845f0d602d77268b91d69497) and be sure to mention "OWASP" to receive the special discounted rate. 
+* BOOK HOTEL: OWASP has a room block for Global AppSec DC 2019. To book a room at the conference hotel use the link above.
 
 * Conference Passes include: Coffee and lunch on Thursday, September 12th & Friday, September 13th, access to the conference talks & expo area, social events, and conference activities.
 
