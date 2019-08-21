@@ -34,14 +34,14 @@ staff:
     role: Director, Technology and Projects
     image: harold.jpg
   - name: Kelly Santalucia
-    role: Sr. Manager of Sponsorship & Membership
+    role: Director, Corporate Support
     image: kelly_150_pref_c.png
-  - name: Lisa Jones
-    role: Sales & Marketing Operations Manager
-    image: Lisa-Jones.jpg
   - name: Dawn Aitken
-    role: Community Manager
+    role: Community and Operations Manager
     image: dawn_150_wiki.png
+  - name: Lisa Jones
+    role: Sales and Marketing Operations Manager
+    image: Lisa-Jones.jpg
   - name: Sibah Poede
-    role: Event Coordinator
+    role: Events Coordinator
     image: sibah-photo.jpg
