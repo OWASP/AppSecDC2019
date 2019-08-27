@@ -106,9 +106,6 @@
     - logo: sonatype.png
       name: Sonatype
       url:  http://www.sonatype.com/
-    - logo: continuumsecurity.png
-      name: Continuum Security
-      url:  https://continuumsecurity.net/
     - logo: intertrust.png
       name: InterTrust
       url:  https://www.intertrust.com/
