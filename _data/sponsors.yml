@@ -72,7 +72,7 @@
       name: Veracode
       url:  https://www.veracode.com/
     - logo: nVisum_logo_hs.png
-      name: nVisium
+      name: NVisium
       url:  https://nvisium.com/
     - logo: salt.png
       name: Salt security

@@ -30,11 +30,7 @@ Global AppSec volunteers are expected to implement the following functions durin
 
 ## Contact Info
 
-Ben Pick, Conference Co-Chair<br/>
-ben.pick@owasp.org
-
-Abdullah Munawar, Conference Co-Chair<br/>
-abdullah.k.munawar@gmail.com
-
-
+Leif Dreizler, Volunteer Coordinator
+leif@segment.com
+805-540-1236
 
