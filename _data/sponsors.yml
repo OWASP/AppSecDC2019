@@ -1,4 +1,29 @@
-- type: Gold
+- type: Silver
+  sponsors:
+    - logo: AltitudeNetworks.svg
+      name: Altitude Networks
+      url : http://www.altitudenetworks.com/
+- type: Sapphire
+  sponsors:
+    - logo: microfocus.png
+      name: Microfocus
+      url : https://www.microfocus.com/en-us/trend/security-risk-governance
+    - logo: acunetix.png
+      name: Acunetix
+      url : https://www.acunetix.com/?home=vt1
+    - logo: netsparker.png
+      name: NetSparker
+      url : https://www.netsparker.com/
+    - logo: rapid7.png
+      name: Rapid7
+      url : http://www.rapid7.com/
+    - logo: securitycompass-stacked.jpg
+      name: Security Compass
+      url : https://securitycompass.com/
+    - logo: nowsecure_logo_horiz_medblue.png
+      name: NowSecure
+      url : https://www.nowsecure.com/
+- type: Ruby
   sponsors:
     - logo: Cequence.png
       name: Cequence
@@ -34,33 +59,6 @@
     - logo: shiftleft.png
       name: ShiftLeft
       url : http://www.shiftleft.io/
-- type: Silver
-  sponsors:
-    - logo: AltitudeNetworks.svg
-      name: Altitude Networks
-      url : http://www.altitudenetworks.com/
-- type: Sapphire
-  sponsors:
-    - logo: microfocus.png
-      name: Microfocus
-      url : https://www.microfocus.com/en-us/trend/security-risk-governance
-    - logo: acunetix.png
-      name: Acunetix
-      url : https://www.acunetix.com/?home=vt1
-    - logo: netsparker.png
-      name: NetSparker
-      url : https://www.netsparker.com/
-    - logo: rapid7.png
-      name: Rapid7
-      url : http://www.rapid7.com/
-    - logo: securitycompass-stacked.jpg
-      name: Security Compass
-      url : https://securitycompass.com/
-    - logo: nowsecure_logo_horiz_medblue.png
-      name: NowSecure
-      url : https://www.nowsecure.com/
-- type: Ruby
-  sponsors:
     - logo: ping.jpg
       name: Ping Identity
       url : http://www.pingidentity.com/
