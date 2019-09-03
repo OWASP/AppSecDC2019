@@ -32,5 +32,4 @@ Global AppSec volunteers are expected to implement the following functions durin
 
 Leif Dreizler, Volunteer Coordinator
 leif@segment.com
-805-540-1236
 
