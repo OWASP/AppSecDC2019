@@ -26,6 +26,14 @@ title: Pricing
             <td class="indent"> Member Early-bird (first 50 registrants)</td>
             <td class="price"> $520</td>
         </tr>
+        <tr>
+            <td>Single-day Tickets</td>
+            <td class="price">$399</td>
+        </tr>
+        <tr>
+            <td>Expo-only (No Meals)</td>
+            <td class="price">$450</td>
+        </tr>
     </table>
     <br/>
     <div>
