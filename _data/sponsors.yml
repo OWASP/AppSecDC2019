@@ -105,3 +105,6 @@
     - logo: tala.png
       name: Tala Security
       url:  https://www.talasecurity.io/
+    - logo: checkpoint.png
+      name: Checkpoint Security
+      url:  https://www.checkpoint.com/
