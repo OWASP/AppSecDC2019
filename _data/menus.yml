@@ -1,9 +1,3 @@
-- title: Registration
-  items:
-  - title : Register
-    url   : https://www.regonline.com/registration/login.aspx?eventID=2566994
-  - title : Pricing
-    url   : program/pricing
 - title: Program
   items:
   - title: Keynotes
