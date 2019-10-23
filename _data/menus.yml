@@ -14,6 +14,10 @@
     url  : program/trainings
   - title: Capture the Flag
     url  : program/capture-the-flag
+- title: Media
+  items:
+  - title: View the Event Photos
+    url  : https://photos.app.goo.gl/1EyDYg5xnpHjcUgR7
 - title: Sponsor
   items:
   - title: Opportunities
